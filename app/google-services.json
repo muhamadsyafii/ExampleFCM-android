@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "287622994368",
+    "project_id": "examplefcm-38208",
+    "storage_bucket": "examplefcm-38208.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287622994368:android:906b1f43741a9ab56dd025",
+        "android_client_info": {
+          "package_name": "id.syafii.examplefcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADS_tAjK-TU_JnKgI4BBDG9G6jV9yIpuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

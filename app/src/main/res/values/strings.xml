@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">ExampleFCM</string>
+  <color name="primary_red">#D00B0B</color>
+</resources>
